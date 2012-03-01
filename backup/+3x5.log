@@ -1,0 +1,29 @@
+time=01:24:36.156 cells=$.#$..#..$$$#.. progress=9.201153788229306 time_elapsed=60s time_left=592s
+keysOpenedStats: average=12.413234097293325 deviation=11.032309261718687 max=517
+
+time=01:25:36.234 cells=#.$#....$#..$$. progress=15.135340970570093 time_elapsed=120s time_left=11min
+keysOpenedStats: average=12.358546599697043 deviation=11.1081153393471 max=517
+
+time=01:26:36.234 cells=.$.#..$$#..$$#. progress=27.272662649496578 time_elapsed=180s time_left=480s
+keysOpenedStats: average=11.852019546337884 deviation=11.835591524150212 max=517
+
+time=01:27:36.234 cells=#$...#$##$..$.$ progress=37.30464627026993 time_elapsed=240s time_left=403s
+keysOpenedStats: average=11.45665888378254 deviation=11.917140583811424 max=517
+
+time=01:28:36.234 cells=$$#.$......##.$ progress=43.210594367919455 time_elapsed=300s time_left=394s
+keysOpenedStats: average=11.831824726291842 deviation=12.590963299127283 max=643
+
+time=01:29:36.234 cells=$$.$.#$..#..#$$ progress=52.134883862582704 time_elapsed=360s time_left=331s
+keysOpenedStats: average=12.20929570269331 deviation=13.186575025743874 max=643
+
+time=01:30:36.234 cells=$.#.##$$..$$..# progress=68.33772774469861 time_elapsed=420s time_left=195s
+keysOpenedStats: average=11.760526611755411 deviation=12.64901533923334 max=643
+
+time=01:31:36.250 cells=$$.#..$......$# progress=77.78326251609269 time_elapsed=480s time_left=137s
+keysOpenedStats: average=11.431739978274566 deviation=12.156057957583128 max=643
+
+time=01:32:36.250 cells=..#..$$..$##.## progress=92.32514365031427 time_elapsed=540s time_left=45s
+keysOpenedStats: average=11.3024371076978 deviation=11.98035548492852 max=643
+
+time_elapsed=564s
+keysOpenedStats: average=11.04795002954072 deviation=11.759072838406897 max=643
